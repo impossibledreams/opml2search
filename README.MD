@@ -1,7 +1,7 @@
 About
 -----
-This scripts converts OPML files into a webpage that lets you search the include URLs via
-Google. To use, put it on a webserver running Perl, and use as follows:
+This scripts converts OPML files into a webpage that lets you search the URLs in the OPML
+file via Google. To use, put it on a webserver running Perl, and use as follows:
 ```
 http://www.example.com/scripts/opml2search.pl?type=html&opml_url=[url_to_opml_file]
 ```
